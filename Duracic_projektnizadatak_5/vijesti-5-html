@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		
+		<link rel="stylesheet" href="style.css">
+		
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="description" content="Pratite sve vijesti vezane uz poslovanje i najavu novih atrakcija tvrtke Gorica putovanja d.o.o.">
+        <meta name="keywords" content="web, HTML, CSS, aplikacije, zadatak, projektni, vijesti, novosti, news">
+		<title>Gorica Putovanja - Vijesti</title>
+	</head>
+<body>
+	<header>
+		<div class="slikica" style="height: "100%"></div>
+		<nav>
+			<ul>
+			  <li><a href="index.html">Početna</a></li>
+			  <li><a href="vijesti.html">Vijesti</a></li>
+			  <li><a href="#">O nama</a></li>
+			  <li><a href="#">Kontakt</a></li>
+			  <li><a href="#">Galerija</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+
+	<h1>Španjolska - stižemo!</h1>
+		<figure>
+			<img src="vijesti/vijesti-5.jpg" alt="vijesti5" title="vijesti5">
+		</figure>
+
+		<p>Vodimo vas u suncem obasjanu i prelijepu Španjolsku! Autobusom ili avionom. Naš paket aranžman uključuje 7 noćenja u hotelu s pet zvijezdica. Javite se za više informacija.</p>
+		<a href="vijesti.html" class="previous">&laquo; Nazad</a>
+	</main>
+	<footer>
+		<p>Copyright &copy; 2023. Gorica Putovanja d.o.o. by Dominik Đuračić. <a href="https://github.com/dduracic/Kolegij-Web-aplikacije" target="_blank"><img src="img/GitHub-Mark-Light-32px.png" title="Github" alt="Github"></a></p>
+	</footer>
+</html>
